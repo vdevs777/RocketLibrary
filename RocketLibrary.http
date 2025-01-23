@@ -1,0 +1,6 @@
+@RocketLibrary_HostAddress = http://localhost:5201
+
+GET {{RocketLibrary_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
